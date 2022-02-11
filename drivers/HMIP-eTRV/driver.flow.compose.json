@@ -1,7 +1,7 @@
 {
     "actions": [
         {
-            "id": "HMIP-eTRV-thermostat_set_weekprofile",
+            "id": "homematic_thermostat_set_weekprofile",
             "title": {
                 "en": "Set Week Profile"
             },
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "id": "HMIP-eTRV-thermostat_set_mode",
+            "id": "homematic_thermostat_set_mode",
             "title": {
                 "en": "Set Mode"
             },
